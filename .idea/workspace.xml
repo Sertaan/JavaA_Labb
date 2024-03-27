@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be4b00f5-a529-48a9-b63e-e222f0fce93c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Dice.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/sertan/dice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sertan/dice/Main.java" afterDir="false" />
     </list>
-    <list id="d9fa6eac-2adc-4a32-879b-3ee2d2b79f62" name="Changes by jonasmalik" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/sertan/dice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sertan/dice/Main.java" afterDir="false" />
-    </list>
+    <list id="8b2c8e3c-a91d-44d8-849b-fa55f26aac12" name="Changes by jonasmalik" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,26 +26,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/src/com/sertan/dice/Main.java">
-      <ranges>
-        <range start1="11" end1="11" start2="11" end2="12" changelist="be4b00f5-a529-48a9-b63e-e222f0fce93c" />
-        <range start1="17" end1="17" start2="18" end2="19" changelist="be4b00f5-a529-48a9-b63e-e222f0fce93c" />
-        <range start1="19" end1="20" start2="21" end2="22" changelist="be4b00f5-a529-48a9-b63e-e222f0fce93c" />
-        <range start1="21" end1="22" start2="23" end2="24" changelist="be4b00f5-a529-48a9-b63e-e222f0fce93c" />
-        <range start1="24" end1="25" start2="26" end2="27" changelist="be4b00f5-a529-48a9-b63e-e222f0fce93c" />
-        <range start1="26" end1="27" start2="28" end2="32" changelist="be4b00f5-a529-48a9-b63e-e222f0fce93c" />
-        <range start1="30" end1="33" start2="35" end2="38" changelist="d9fa6eac-2adc-4a32-879b-3ee2d2b79f62" />
-        <range start1="35" end1="37" start2="40" end2="42" changelist="d9fa6eac-2adc-4a32-879b-3ee2d2b79f62" />
-        <range start1="38" end1="41" start2="43" end2="43" changelist="d9fa6eac-2adc-4a32-879b-3ee2d2b79f62" />
-        <range start1="42" end1="42" start2="44" end2="50" changelist="d9fa6eac-2adc-4a32-879b-3ee2d2b79f62" />
-        <range start1="43" end1="44" start2="51" end2="51" changelist="d9fa6eac-2adc-4a32-879b-3ee2d2b79f62" />
-        <range start1="45" end1="46" start2="52" end2="54" changelist="d9fa6eac-2adc-4a32-879b-3ee2d2b79f62" />
-        <range start1="47" end1="48" start2="55" end2="57" changelist="d9fa6eac-2adc-4a32-879b-3ee2d2b79f62" />
-        <range start1="49" end1="50" start2="58" end2="59" changelist="d9fa6eac-2adc-4a32-879b-3ee2d2b79f62" />
-        <range start1="52" end1="57" start2="61" end2="62" changelist="d9fa6eac-2adc-4a32-879b-3ee2d2b79f62" />
-      </ranges>
-    </file>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -57,23 +38,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Sertan/Documents/todo-react",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Sertan/IdeaProjects/tmp/Dice/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sertan/Downloads/mariadb-java-client-3.3.3.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Sertan/IdeaProjects/tmp/Dice/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mariadb&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.com.sertan.dice.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -117,11 +109,26 @@
       <workItem from="1707984269459" duration="3547000" />
       <workItem from="1708426225160" duration="2736000" />
       <workItem from="1708598546151" duration="2219000" />
-      <workItem from="1708704023439" duration="9737000" />
+      <workItem from="1708704023439" duration="10091000" />
+      <workItem from="1709407961964" duration="8000" />
+      <workItem from="1709916596071" duration="1463000" />
+      <workItem from="1709918645087" duration="17676000" />
+      <workItem from="1711487635920" duration="2767000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
